@@ -12,7 +12,7 @@
   <img align="center" alt="bh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="bh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="bh-Csharp" height="30" width="40" src="https://user-images.githubusercontent.com/16247638/148286751-de042621-31c6-4554-ae68-736b34f856f8.png">
-  <img align="right" alt="BrunoHDMacedo" height="150" style="border-radius:50px;" src="https://i0.wp.com/iciencia.info/portal/wp-content/uploads/2021/01/bhs3.jpg?width=676&height=676">
+  <img align="right" alt="BrunoHDMacedo" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/16247638?v=4width=676&height=676">
 </div>
   
   ##
