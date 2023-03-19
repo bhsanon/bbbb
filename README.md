@@ -30,7 +30,9 @@
       <li>Identificação de Exoplanetas utilizando técnicas de Aprendizado de Máquina 📰🗞️
   <br></li>  </ul>
   🌱 Atualmente estou estudando Mecânica Quântica.
-  
+
+   ### <a href="http://lattes.cnpq.br/7842985016416991" target="_blank"> Currículo Lattes</a>
+
 ## Dados e Estatísticas
 
 <div align="center">
