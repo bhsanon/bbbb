@@ -1,13 +1,40 @@
-# Olá mundo, sou o Bruno Macedo <a href="https://instagram.com/lmport_bhs" target="_blank">@import_bhs</a>.
+<div align="center"><a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-8152-0950" target="_blank"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://media.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif"
+        style="width: 600px; margin-inline-start: 1.0em" target="_blank"
+        alt="BHD MACEDO - ORCID iD"/>
+</a>
+
+## Olá mundo, sou o Bruno Macedo.
+</div><div align="center">
 
 ### Bem vindo, sou criador de conteúdo sobre ciência do portal <a href="https://iciencia.info/portal" target="_blank">@iciencia</a>
+
  <a href="https://www.youtube.com/channel/UC8K_vQQT6qDPo6myPOIsSpg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lmport_bhs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/bhsga" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/DFj98C4EDH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:brunohenriquedourado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/bruno-hd-macedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+      <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-8152-0950" target="_blank"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://ppgbiovegetal.ufms.br/files/2017/06/ORCID-icon.png"
+        style="width: 30px; margin-inline-start: 1.0em" target="_blank"
+        alt="BHD MACEDO - ORCID iD"/>
+    </a>
+</div>
 <h3>Sobre mim</h3>
 
 <p align="left">
@@ -59,5 +86,5 @@
   ##
   
   ![Snake animation](https://github.com/brunohdmacedo/brunohdmacedo/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
